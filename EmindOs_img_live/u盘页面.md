@@ -8,6 +8,7 @@
 - iso 启动遮住代码块
 
 ## u盘背景图片位置
+  ![](https://github.com/dongpeng123/dongpeng/blob/master/EmindOs_PNG/banner.png)
   - bootable/newinstaller/install/refind/efi/boot/themes/boto/banner.png
 
 ## F2页面字体修改
@@ -24,6 +25,7 @@
   - system/media/bootanimation.zip
 
 ## EmindOS_iso背景图片
+  ![](https://github.com/dongpeng123/dongpeng/blob/master/EmindOs_PNG/android-x86.png)
   - bootable/newinstaller/boot/isolinux/android-x86.png
 ## EmindOs_iso 相关字体修改
   - bootable/newinstaller/boot/isolinux/isolinux.cfg
