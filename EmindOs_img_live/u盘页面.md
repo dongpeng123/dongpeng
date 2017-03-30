@@ -1,7 +1,7 @@
 # u盘启动页面
 - u盘背景图片位置
 - F2页面字体修改
-- 关键子搜索
+- 开机动画
 
 ## u盘背景图片位置
   - bootable/newinstaller/install/refind/efi/boot/themes/boto/banner.png
@@ -16,4 +16,6 @@
     - bootable/newinstaller/install/refind/efi/boot/themes/boto/768/os_openthos.png
 
 
-## 关键字搜索
+## 开机动画
+  - bootable/newinstaller/replace/bootanimation.zip
+  - system/media/bootanimation.zip
