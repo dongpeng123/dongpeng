@@ -10,3 +10,7 @@
   - git config --list (查看git配置信息)
   - git config --global user.name "user" (配置git用户名)
   - git config --global user.email "email" （配置git用户的邮箱）
+  - git init (创建本地仓库)
+  - git add --all (添加所有)
+  - git commit -m "本次提交描述信息" 
+  - git commit -a -s 
