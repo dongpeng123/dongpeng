@@ -3,7 +3,7 @@
     - Link: [openthos](https://www.openthos.org/).
 
 # openthos 项目结构分布：
-  - UEFI 启动
+  - [UEFI 启动](https://github.com/dongpeng123/dongpeng/blob/master/OpenThos/uefi.md)
   - 启动引导页面
   - 任务栏
   - 开始菜单
