@@ -5,7 +5,7 @@
 # openthos 项目结构分布：
   - [UEFI 启动](https://github.com/dongpeng123/dongpeng/blob/master/OpenThos/uefi.md)
   - [启动引导页面](https://github.com/dongpeng123/dongpeng/blob/master/OpenThos/first_boot_page.md)
-  - 任务栏
+  - [任务栏](https://github.com/dongpeng123/dongpeng/blob/master/OpenThos/task_bar.md)
   - 开始菜单
   - 通知栏
   - 文件管理器
