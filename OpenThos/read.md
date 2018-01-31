@@ -7,9 +7,9 @@
   - [启动引导页面](https://github.com/dongpeng123/dongpeng/blob/master/OpenThos/first_boot_page.md)
   - [任务栏](https://github.com/dongpeng123/dongpeng/blob/master/OpenThos/task_bar.md)
   - [开始菜单](https://github.com/dongpeng123/dongpeng/blob/master/OpenThos/startmenu.md)
-  - 通知栏
-  - 文件管理器
-  - 设置
-  - 浏览器
-  - 应用商店
+  - [通知栏](https://github.com/dongpeng123/dongpeng/blob/master/OpenThos/notification_bar.md)
+  - [文件管理器](https://github.com/dongpeng123/dongpeng/blob/master/OpenThos/filemanager.md)
+  - [设置](https://github.com/dongpeng123/dongpeng/blob/master/OpenThos/settings.md)
+  - [浏览器](https://github.com/dongpeng123/dongpeng/blob/master/OpenThos/browser.md)
+  - [应用商店](https://github.com/dongpeng123/dongpeng/blob/master/OpenThos/app_store.md)
   - 
