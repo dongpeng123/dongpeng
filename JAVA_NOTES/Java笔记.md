@@ -37,8 +37,9 @@
   - String  StringBuffer StringBuilder区别
     - String为字符串常量，而StringBuilder和StringBuffer均为字符串变量，即String对象一旦创建之后该对象是不可更改的，但后两者的对象是变量，是可以更改的。以下面一段代码为例：
       - string  a="abc"; a = a + "de" 这个是创建了两次string对象 string a = "abc" + "de"    java默认为abcde
-
   - 如果一个StringBuffer对象在字符串缓冲区被多个线程使用时，StringBuffer中很多方法可以带有synchronized关键字，所以可以保证线程是安全的，但StringBuilder的方法则没有该关键字，所以不能保证线程安全，有可能会出现一些错误的操作。所以如果要进行的操作是多线程的，那么就要使用StringBuffer，但是在单线程的情况下，还是建议使用速度比较快的StringBuilder。
   - String：适用于少量的字符串操作的情况
   - StringBuffer：适用多线程下在字符缓冲区进行大量操作的情况
   - StringBuilder：适用于单线程下在字符缓冲区进行大量操作的情况
+## 反射总结
+  - 顾名思义就是以其之道还施彼身，java的思想，就是先有类在有对象，反射就是通过class拿到对象调用对应的方法，和属性，这就是反射的原理。
