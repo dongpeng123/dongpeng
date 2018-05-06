@@ -6,6 +6,8 @@
   - Android 第三方框架
   - Android 控件使用笔记
 
+## Android 系统架构图
+![](https://github.com/dongpeng123/dongpeng/blob/master/Android_Notes/Android%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84.jpg)
 
 ## Android 控件使用笔记
 
