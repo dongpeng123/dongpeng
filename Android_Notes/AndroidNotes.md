@@ -8,6 +8,7 @@
 
 
 ## Android 控件使用笔记
-  - 异步任务处理机制 Handler  AsyncTask
+
+  - 异步任务处理机制 Handler  AsyncTask
     - Handler 
     - AsyncTask
