@@ -55,7 +55,7 @@
     顾名思义就是以其之道还施彼身，java的思想，就是先有类在有对象，反射就是通过class拿到对象调用对应的方法，和属性，这就是反射的原理。
 
 ## Java 引用对象总结
-  - Java 引用对象有：  强引用（strong reference） 软引用（soft reference） 弱引用（weak reference） 虚引用（phantom reference）
+  - Java 引用对象有： 
     - 强引用（strong reference）  new 出来的对象就是强引用
     - 软引用（soft reference） 
     - 弱引用（weak reference）
