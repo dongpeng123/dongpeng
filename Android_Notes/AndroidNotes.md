@@ -21,7 +21,14 @@
 ## Android 设计模式
 
 ## Android 第三方框架
-
+  - rxjava rxandroid
+  - retrofit2
+  - okhttp
+  - glide 图片加载
+  - butterknife
+  - rxbinding 不开源 bug类专门记录bug
+  - 
+  
 ## Android 控件使用笔记
 
   - 异步任务处理机制 Handler  AsyncTask
@@ -30,3 +37,4 @@
 
 ## 图片处理
   - Link: https://blog.csdn.net/lmj623565791/article/details/49300989/
+
